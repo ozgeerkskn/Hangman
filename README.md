@@ -1,6 +1,5 @@
 # Hangman
-Hangman game developed with Javascript
-Javascript, HTML, CSS
+Hangman game developed with Javascript, HTML, CSS
 
 ![hangman1](https://user-images.githubusercontent.com/105421946/218504477-21d4b380-2bb3-44c2-ad88-77141291723b.png)
 ![hangman2](https://user-images.githubusercontent.com/105421946/218504478-8bf67f89-c801-4df8-b679-f9e1f6fcaaa7.png)
